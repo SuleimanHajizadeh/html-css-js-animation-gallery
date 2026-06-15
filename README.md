@@ -47,24 +47,26 @@ Below is the complete list of all consolidated projects, along with their live d
 | 35 | **Happy Holi Animation Effects** | [`./Happy-Holi-Animation-Effects`](./Happy-Holi-Animation-Effects) | [⚡ Live Demo](https://suleiman-happy-holi-animation-effects.netlify.app/) |
 | 36 | **Heroes LandingPage** | [`./Heroes-LandingPage`](./Heroes-LandingPage) | [⚡ Live Demo](https://suleiman-heroes.netlify.app/) |
 | 37 | **Isometric Menu Hover Effects 3D Menu** | [`./Isometric-Menu-Hover-Effects-3D-Menu`](./Isometric-Menu-Hover-Effects-3D-Menu) | [⚡ Live Demo](https://suleiman-isometric-menu-hover-effects.netlify.app/) |
-| 38 | **New Year 2025** | [`./New-Year-2025`](./New-Year-2025) | [⚡ Live Demo](https://suleiman-new-year-2025.netlify.app/) |
-| 39 | **Parallax Scrolling Website using Scroll Trigger** | [`./Parallax-Scrolling-Website-using-Scroll-Trigger`](./Parallax-Scrolling-Website-using-Scroll-Trigger) | [⚡ Live Demo](https://suleiman-parallax-scrolling-website.netlify.app/) |
-| 40 | **Police Vs Taxi Running Car Animation Effects** | [`./Police-Vs-Taxi-Running-Car-Animation-Effects`](./Police-Vs-Taxi-Running-Car-Animation-Effects) | [⚡ Live Demo](https://suleiman-police-vs-taxi.netlify.app/) |
-| 41 | **Product Card Hover Effect Cocacola Card UI Design** | [`./Product-Card-Hover-Effect-Cocacola-Card-UI-Design`](./Product-Card-Hover-Effect-Cocacola-Card-UI-Design) | [⚡ Live Demo](https://suleiman-product-card-hover-coca.netlify.app/) |
-| 42 | **Simple Star Rating** | [`./Simple-Star-Rating`](./Simple-Star-Rating) | [⚡ Live Demo](https://suleiman-simple-star-rating.netlify.app/) |
-| 43 | **Stop Watch** | [`./Stop-Watch`](./Stop-Watch) | [⚡ Live Demo](https://suleiman-stop-watch.netlify.app/) |
-| 44 | **svg** | [`./svg`](./svg) | [⚡ Live Demo](https://suleiman-svg.netlify.app/) |
-| 45 | **Switch On Off Light Bulb With Sound** | [`./Switch-On-Off-Light-Bulb-With-Sound`](./Switch-On-Off-Light-Bulb-With-Sound) | [⚡ Live Demo](https://suleiman-switch-on-off-light-bulb.netlify.app/) |
-| 46 | **Tab Navigation Menu** | [`./Tab-Navigation-Menu`](./Tab-Navigation-Menu) | [⚡ Live Demo](https://suleiman-tab-navigation-menu.netlify.app/) |
-| 47 | **Text Animation Effects** | [`./Text-Animation-Effects`](./Text-Animation-Effects) | [⚡ Live Demo](https://suleiman-text-animation-effects.netlify.app/) |
-| 48 | **Tic Tac Toe Game** | [`./Tic-Tac-Toe-Game`](./Tic-Tac-Toe-Game) | [⚡ Live Demo](https://suleiman-tic-tac-toe-game.netlify.app/) |
-| 49 | **To Do List** | [`./To-Do-List`](./To-Do-List) | [⚡ Live Demo](https://suleiman-to-do-list.netlify.app/) |
-| 50 | **To Do Project** | [`./To-Do-Project`](./To-Do-Project) | [⚡ Live Demo](https://suleiman-to-do-project.netlify.app/) |
-| 51 | **Website 1** | [`./Website-1`](./Website-1) | [⚡ Live Demo](https://suleiman-website-1.netlify.app/) |
-| 52 | **Website 2** | [`./Website-2`](./Website-2) | [⚡ Live Demo](https://suleiman-website-2.netlify.app/) |
-| 53 | **Website 3** | [`./Website-3`](./Website-3) | [⚡ Live Demo](https://suleiman-website-3.netlify.app) |
-| 54 | **Website 4** | [`./Website-4`](./Website-4) | [⚡ Live Demo](https://suleiman-website-4.netlify.app) |
-| 55 | **Website With Login And Register** | [`./Website-With-Login-And-Register`](./Website-With-Login-And-Register) | [⚡ Live Demo](https://suleiman-website-login-and-register.netlify.app/) |
+| 38 | **MyPortfolio.github.io** | [`./MyPortfolio.github.io`](./MyPortfolio.github.io) | 🖥️ Local execution |
+| 39 | **New Year 2025** | [`./New-Year-2025`](./New-Year-2025) | [⚡ Live Demo](https://suleiman-new-year-2025.netlify.app/) |
+| 40 | **Parallax Scrolling Website using Scroll Trigger** | [`./Parallax-Scrolling-Website-using-Scroll-Trigger`](./Parallax-Scrolling-Website-using-Scroll-Trigger) | [⚡ Live Demo](https://suleiman-parallax-scrolling-website.netlify.app/) |
+| 41 | **Police Vs Taxi Running Car Animation Effects** | [`./Police-Vs-Taxi-Running-Car-Animation-Effects`](./Police-Vs-Taxi-Running-Car-Animation-Effects) | [⚡ Live Demo](https://suleiman-police-vs-taxi.netlify.app/) |
+| 42 | **Product Card Hover Effect Cocacola Card UI Design** | [`./Product-Card-Hover-Effect-Cocacola-Card-UI-Design`](./Product-Card-Hover-Effect-Cocacola-Card-UI-Design) | [⚡ Live Demo](https://suleiman-product-card-hover-coca.netlify.app/) |
+| 43 | **Simple Star Rating** | [`./Simple-Star-Rating`](./Simple-Star-Rating) | [⚡ Live Demo](https://suleiman-simple-star-rating.netlify.app/) |
+| 44 | **Stop Watch** | [`./Stop-Watch`](./Stop-Watch) | [⚡ Live Demo](https://suleiman-stop-watch.netlify.app/) |
+| 45 | **suleimanhajizadeh.github.io** | [`./suleimanhajizadeh.github.io`](./suleimanhajizadeh.github.io) | 🖥️ Local execution |
+| 46 | **svg** | [`./svg`](./svg) | [⚡ Live Demo](https://suleiman-svg.netlify.app/) |
+| 47 | **Switch On Off Light Bulb With Sound** | [`./Switch-On-Off-Light-Bulb-With-Sound`](./Switch-On-Off-Light-Bulb-With-Sound) | [⚡ Live Demo](https://suleiman-switch-on-off-light-bulb.netlify.app/) |
+| 48 | **Tab Navigation Menu** | [`./Tab-Navigation-Menu`](./Tab-Navigation-Menu) | [⚡ Live Demo](https://suleiman-tab-navigation-menu.netlify.app/) |
+| 49 | **Text Animation Effects** | [`./Text-Animation-Effects`](./Text-Animation-Effects) | [⚡ Live Demo](https://suleiman-text-animation-effects.netlify.app/) |
+| 50 | **Tic Tac Toe Game** | [`./Tic-Tac-Toe-Game`](./Tic-Tac-Toe-Game) | [⚡ Live Demo](https://suleiman-tic-tac-toe-game.netlify.app/) |
+| 51 | **To Do List** | [`./To-Do-List`](./To-Do-List) | [⚡ Live Demo](https://suleiman-to-do-list.netlify.app/) |
+| 52 | **To Do Project** | [`./To-Do-Project`](./To-Do-Project) | [⚡ Live Demo](https://suleiman-to-do-project.netlify.app/) |
+| 53 | **Website 1** | [`./Website-1`](./Website-1) | [⚡ Live Demo](https://suleiman-website-1.netlify.app/) |
+| 54 | **Website 2** | [`./Website-2`](./Website-2) | [⚡ Live Demo](https://suleiman-website-2.netlify.app/) |
+| 55 | **Website 3** | [`./Website-3`](./Website-3) | [⚡ Live Demo](https://suleiman-website-3.netlify.app) |
+| 56 | **Website 4** | [`./Website-4`](./Website-4) | [⚡ Live Demo](https://suleiman-website-4.netlify.app) |
+| 57 | **Website With Login And Register** | [`./Website-With-Login-And-Register`](./Website-With-Login-And-Register) | [⚡ Live Demo](https://suleiman-website-login-and-register.netlify.app/) |
 
 ---
 
