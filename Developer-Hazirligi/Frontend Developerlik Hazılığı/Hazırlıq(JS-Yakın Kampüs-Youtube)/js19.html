@@ -1,0 +1,47 @@
+<html>
+<head>
+</head>
+<body>
+<script type="text/javascript">
+   var mevcutdersler = new Array (" XHTML ", " JS ");
+   var verilecekdersler = new Array (" HTML5 ", " MySQL ");
+   
+   for (var i=0;i<mevcutdersler.length;i++)
+   {document.write(mevcutdersler[i]);}
+   document.write("<hr/>");
+   for (var j=0;j<verilecekdersler.length;j++)
+   {document.write(verilecekdersler[j]);}
+   
+   document.write("<hr/>");
+   document.write(verilecekdersler.join());
+   
+   document.write("<hr/>");
+   var dersler = new Array ();
+   dersler[0] = mevcutdersler[0];
+   dersler[1] = mevcutdersler[1];
+   dersler[2] = verilecekdersler[0];
+   dersler[3] = verilecekdersler[1];
+   document.write(dersler.join());
+   
+   document.write("<hr/>");
+   document.write(verilecekdersler.concat(mevcutdersler).join());
+   
+   document.write("<hr/>");
+   var tersdersler = new Array();
+   tersdersler[0]=dersler[3];
+   tersdersler[1]=dersler[2];
+   tersdersler[2]=dersler[1];
+   tersdersler[3]=dersler[0];
+   document.write(tersdersler.join());
+   
+   document.write("<hr/>");
+   var tersdersler2 = dersler.reverse();
+   document.write(tersdersler.join());
+   
+   veya
+   
+   //document.write("<hr/>");
+   //document.write(dersler.reverse()).join();
+</script>
+</body>
+</html>

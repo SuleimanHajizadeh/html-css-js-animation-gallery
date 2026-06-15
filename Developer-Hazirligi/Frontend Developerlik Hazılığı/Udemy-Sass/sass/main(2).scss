@@ -1,0 +1,27 @@
+/* Sass kodlari */
+$size: 5;
+$padding: 10px;
+$black: black;
+$white: white;
+$scrimson: crimson;
+$blue: blue;
+
+p {
+    @if size==6 {
+        background-color: $black;
+        padding: $spadding;
+        color: $black;
+
+    }
+    @else if ($size ) {
+        background-color: $white;
+        padding: $padding;
+        color: $black;
+    }
+    @else {
+        background-color: $blue;
+        padding: &spadding;
+        color: &white;
+
+    }
+}

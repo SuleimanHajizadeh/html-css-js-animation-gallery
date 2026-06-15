@@ -1,0 +1,44 @@
+<html>
+    <head>
+    </head>
+    <body>
+	<form name="Giris_alani">
+	   <fieldset><legend>Kullanici Giris Alani</legend>
+	         Kullanici:<input type="text" name="Kullanici adi"/><br/>
+		     Sifre yeri:<input type="password" name="sifre"/>
+		     <input type="button" value="Gonder"/>
+		</fieldset>
+	</form>
+	<hr/>
+	<form name="Anket_alani">
+	    <fieldset><legend>Anket Alani</legend>
+		     Nerde ikamet ediyorsunuz?*<br/>
+			 <input type="checkbox" name="adres" value="AZERBAYCAN"> Azerbaycan
+			 <input type="checkbox" name="adres" value="AVRUPA BIRLIGI"> Avrupa Birligi
+			 <input type="checkbox" name="adres" value="AMERIKA BIRLESIK DEVLETLERI"> ABD
+			 <input type="checkbox" name="adres" value="Diger"> Diger
+					
+		</fieldset>
+	</form>
+	
+    <script type="text/javascript">
+	function checker () {
+	var uzunluk=document.Anket_alani.length;
+	var liste = new Array ();
+	for (var i = 0; i < uzunluk ; i++)
+	{
+	if (document.Anket_alani.elements[i].checked==true)
+	   {
+	   liste.push(document.Anket_alani.elements[i].value);
+	   }
+	else 
+	   {liste=liste;}
+    }
+	alert ("Ekranda secili ulkeler sunlardir: "+liste.join());   
+   }  
+	   
+	   
+    </script>
+	<input type="button" value="Check kontrol" onclick="checker();" />
+    </body>
+</html>

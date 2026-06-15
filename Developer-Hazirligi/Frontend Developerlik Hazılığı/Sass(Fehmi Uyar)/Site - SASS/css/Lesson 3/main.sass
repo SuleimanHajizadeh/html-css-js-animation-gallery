@@ -1,0 +1,28 @@
+/* CSS Document number, string, boolean, color */
+$font: Hlevetica,sans-serif
+$size24: 24px
+$color: darkkhaki
+$name: "test"
+.demo
+    font: 100% $font
+    color: $color
+    font-size: $size24
+    p.#{$name}
+        font-size: $size24
+        background-color: $color
+#menu
+    background-color: $color
+    ul
+        width: 100%
+        list-style: none
+    li
+        display: inline-block
+    a
+        color: white
+        text-decoration: none
+        padding: 8px 16px
+        display: block
+        text-align: center
+        a:hover
+            text-decoration: underline
+            color: black

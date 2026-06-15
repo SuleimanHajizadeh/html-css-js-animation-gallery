@@ -1,0 +1,65 @@
+<html>
+<head>
+<script type="text/javascript">
+    function ders (isim, kod, hoca, tarih)
+	{this.isim=isim;
+	this.kod=kod;
+	this.hoca=hoca;
+	this.tarih=tarih;
+	this.kacsenedir=kacsenedir;
+	
+	}
+	
+	function kacsenedir ()
+	{var x=2012 - this.tarih;
+	     return x;}
+		 
+</script>
+</head>
+<body>
+<script type="text/javascript">
+
+	 var ders1 = new ders  ("JavaScript", 101, "Suleyman", 2010);
+	 var ders2 = new ders  ("XHTML,CSS", 102, "Solomon", 2011);
+	 document.write  (ders1.tarih);
+	 document.write("<br/>");
+	 //document.write  (ders2.tarih);
+	 //document.write("<br/>");
+	 document.write(ders1.kacsenedir());
+	 document.write("<br/>");
+	 document.write(ders2.kacsenedir());
+	 
+	 /*
+	 var ulke1 = {isim:"Almanya",dil:"Almanca",konum:"Avrupa Birliyi", kurulusyili:1871};
+	 document.write (ulke1.isim);
+	 document.write ("<br/>");
+	 var ulke2 = {isim:"Azerbaycan",dil:"Azerbaycanca",konum:"Kafkasya", kurulusyili:1918};
+	 document.write (ulke2.isim);
+	 document.write ("<br/>");
+	 var ulke3 = {isim:"Turkiye",dil:"Turkce",konum:"Anadolu ve Avrupa", kurulusyili:1923};
+	 document.write (ulke3.isim);
+	 document.write ("<br/>");
+	 var ulke4 = {isim:"Rusya",dil:"Rusca",konum:"ASiya ve Avrupa", kurulusyili:1991};
+	 document.write (ulke4.isim);
+	 document.write ("<br/>");
+	 var ulke5 = {isim:"Birlesik Krallik",dil:"Ingilizce",konum:"Avrupa Birliyi", kurulusyili:1535};
+	 document.write (ulke5.isim);
+	 document.write ("<br/>");
+	 var ulke6 = {isim:"Fransa",dil:"Fransizca",konum:"Avrupa Birliyi", kurulusyili:987};
+	 document.write (ulke6.isim);
+	 document.write ("<br/>");
+	 var ulke7 = {isim:"Amerika Birlesik Devletleri",dil:"Ingilizce",konum:"Simali Amerika", kurulusyili:1776};
+	 document.write (ulke7.isim);
+	 document.write ("<br/>");
+	 var ulke8 = {isim:"Yunanistan",dil:"Yunanca",konum:"Avrupa Birliyi", kurulusyili:1821};
+	 document.write (ulke8.isim);
+	 document.write ("<br/>");
+	 var ulke9 = {isim:"Israyil",dil:"ibranice",konum:"Orta Dogu", kurulusyili:1948};
+	 document.write (ulke9.isim);
+	 document.write ("<br/>");
+	 var ulke10 = {isim:"Pakistan",dil:"Urduca",konum:"Guney Asya", kurulusyili:1918};
+	 document.write (ulke10.isim);
+	 */
+</script>
+</body>
+</html>

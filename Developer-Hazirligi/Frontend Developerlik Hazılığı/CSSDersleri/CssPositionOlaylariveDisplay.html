@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position Olaylari ve Display</title>
+    <style>
+        #div1 {
+            height: 20px;
+            width: 100%;
+            background-color: red;
+            position: fixed;
+            left: 0;
+            top: 0;
+        }
+
+        #div2 {
+            height: 20px;
+            width: 100%;
+            background-color: black;
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            display: inherit;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="div1"></div>
+    <div style="margin-top:20px; background-color: yellow; height: 8000px;"></div>
+    <div id="div2"></div>
+
+</body>
+
+</html>

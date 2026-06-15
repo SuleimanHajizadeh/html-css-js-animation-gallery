@@ -1,0 +1,30 @@
+<html>
+    <head>
+    </head>
+    <body>
+	<form name="Giris_alani">
+	   <fieldset><legend>Kullanici Giris Alani</legend>
+	         Kullanici:<input type="text" name="Kullanici adi"/><br/>
+		     Sifre yeri:<input type="password" name="sifre"/>
+		     <input type="button" value="Gonder"/>
+		</fieldset>
+	</form>
+	<hr/>
+	<form name="Anket_alani">
+	    <fieldset><legend>Anket Alani</legend>
+		     Nerde ikamet ediyorsunuz?*<br/>
+			 <input type="checkbox" name="adres" value="AZE"> Azerbaycan
+			 <input type="checkbox" name="adres" value="AB"> Avrupa Birligi
+			 <input type="checkbox" name="adres" value="USA"> ABD
+			 <input type="checkbox" name="adres" value="Diger"> Diger
+					
+		</fieldset>
+	</form>
+    <script type="text/javascript">
+	    //var y = document.forms[0].length;
+	    var x = document.Anket_alani.elements[2].value;
+	    alert(x);
+    </script>
+    </body>
+</html>
+

@@ -1,0 +1,27 @@
+<html>
+<head>
+</head>
+<body>
+<script type="text/javascript">
+   var mevcutdersler = new Array (" XHTML "," JS ");
+   var verilecekdersler = new Array (" HTML5 "," MySQL ");
+   var dersler = mevcutdersler.concat(verilecekdersler);
+   document.write(dersler.join());
+   
+   //SORT METODU:
+   document.write("<hr/>");
+   var derslersirali= dersler.sort();
+   document.write(derslersirali.join());
+   
+   //POP METODU:
+   document.write("<hr/>");
+   derslersirali.pop();
+   document.write(derslersirali.join());
+   
+   //PUSH METODU:
+   document.write("<hr/>");
+   derslersirali.push(" Autocad "," Rhino ");
+   document.write(derslersirali.join());
+</script>
+</body>
+</html>

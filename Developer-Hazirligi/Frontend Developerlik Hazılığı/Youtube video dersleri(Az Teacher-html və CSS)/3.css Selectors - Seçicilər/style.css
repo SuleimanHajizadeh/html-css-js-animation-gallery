@@ -1,0 +1,39 @@
+p {
+    color: red;
+    background-color: aqua;
+}
+
+h3 {
+    color: yellow;
+    background-color: red;
+}
+
+#h9 {
+    color: yellow;
+    background-color: blue;
+    text-align: center;
+}
+
+#h10 {
+    color: blueviolet;
+    background-color: coral;
+    text-align: end;
+}
+
+#h11 {
+    color: green;
+    background-color: blueviolet;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h14 {
+    color: crimson;
+    background-color: yellow;
+    text-align: center;
+}
+
+.h13 {
+    color: greenyellow;
+    background-color: blueviolet;
+}

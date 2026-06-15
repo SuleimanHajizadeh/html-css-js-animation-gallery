@@ -1,0 +1,7 @@
+// Mixinler
+@mixin border-radius($par) {
+    border-radius: $par;
+    -moz-border-radius: $par;
+    -webkit-border-radius: $par;
+    -o-border-radius: $par;
+}

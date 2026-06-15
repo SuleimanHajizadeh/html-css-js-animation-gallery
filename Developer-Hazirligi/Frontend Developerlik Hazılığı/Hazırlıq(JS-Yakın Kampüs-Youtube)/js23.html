@@ -1,0 +1,34 @@
+<html>
+<head>
+</head>
+<body>
+<script type="text/javascript">
+
+  var zaman = new Date();
+  document.write(zaman);
+  document.write("<hr/>");
+  var saat = zaman.getHours();
+  document.write(saat);
+  document.write("<hr/>");
+  var dakika = zaman.getMinutes();
+  document.write(dakika);
+  document.write("<hr/>");
+  var zamanDegistirilmis = new Date (2022,8,6,21,32,0,0);
+  document.write(zamanDegistirilmis);
+  document.write("<hr/>");
+  zaman.setMinutes(23);
+  document.write(zaman);
+  
+  function yasKontrol () {
+  var dogumYili = prompt ("Lutfen dogum yilinizi yaziniz","");
+  var mevcutZaman=new Date ();
+  var siniryil=mevcutZaman.getFullYear()-18;
+  if (dogumyili > siniryil)
+  { alert ("Ne yazik ki, yasiniz sitenin icerigini goruntulemek icin uygun degildir!");}
+  else
+  { alert ("Hosgeldiniz, sitemizde keyifli bi ziyaret kecirmenizi umariz!");}}
+  yasKontrol();
+  
+</script>
+</body>
+</html>

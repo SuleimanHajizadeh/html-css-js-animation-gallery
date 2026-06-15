@@ -1,0 +1,20 @@
+<html>
+<head>
+</head>
+<body>
+<script type="text/javascript">
+  var x=1;
+  function birinci (param) {  document.write("Ilk fonksiyonumu "+param+". defa calistiriyorum ! ");
+                            param=param+1;
+							ikinci(param);}
+  function ikinci (param2)  {document.write("Ikinci fonksiyonumu "+param2+". defa calistiriyorum ! ");
+                            param2=param2+1;
+							birinci(param2);}
+  
+  //function nihai () {birinci(); ikinci();}
+  //nihai();
+  birinci(x); 
+  
+</script>
+</body>
+</html>

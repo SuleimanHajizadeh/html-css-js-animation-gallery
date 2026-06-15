@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html Table tag</title>
+</head>
+<style>
+    table {
+        border: 1px solid black ;
+    }
+
+    td, tr 
+    {
+        border: 1px solid rgb(153, 19, 19);
+    }
+</style>
+<body>
+    <table style="width:100%;">
+        <caption>Iscilerin saatliq emek haqqlari</caption>
+
+        <colgroup>
+        <col span="1" style="background: red;">
+        <col span="2" style="background: yellow;">
+        <col span="2" style="background: green;">
+        <col span="1" style="background: brown;">
+        <col span="1" style="background: rgb(17, 170, 132);">
+        </colgroup>
+
+        <thead>
+        <tr>
+            <th style="width:15% ;">ID</th>
+            <th style="width:20%;">Ad</th>
+            <th style="width:30%;">Soyad</th>
+            <th style="width:28% ;">Is saati</th>
+            <th style="width:7% ;">Maas</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>2.</td>
+            <td>Ayxan</td>
+            <td>Hajizada</td>
+            <td>40</td>
+            <td>5000</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>Nariman</td>
+            <td>Hajizada</td>
+            <td>40</td>
+            <td>5000</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>Zahra</td>
+            <td>Hajizada</td>
+            <td>40</td>
+            <td>5000</td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <td>Suleyman</td>
+            <td>Hajizada</td>
+            <td>40</td>
+            <td>5000</td>
+        </tr>
+        </tbody>
+        <tfoot>
+        <tr>
+            <td colspan="4">Cemi</td>
+            <td>25000</td>
+        </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
