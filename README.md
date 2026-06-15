@@ -47,14 +47,14 @@ Below is the complete list of all consolidated projects, along with their live d
 | 35 | **Happy Holi Animation Effects** | [`./Happy-Holi-Animation-Effects`](./Happy-Holi-Animation-Effects) | [⚡ Live Demo](https://suleiman-happy-holi-animation-effects.netlify.app/) |
 | 36 | **Heroes LandingPage** | [`./Heroes-LandingPage`](./Heroes-LandingPage) | [⚡ Live Demo](https://suleiman-heroes.netlify.app/) |
 | 37 | **Isometric Menu Hover Effects 3D Menu** | [`./Isometric-Menu-Hover-Effects-3D-Menu`](./Isometric-Menu-Hover-Effects-3D-Menu) | [⚡ Live Demo](https://suleiman-isometric-menu-hover-effects.netlify.app/) |
-| 38 | **MyPortfolio.github.io** | [`./MyPortfolio.github.io`](./MyPortfolio.github.io) | 🖥️ Local execution |
+| 38 | **MyPortfolio.github.io** | [`./MyPortfolio.github.io`](./MyPortfolio.github.io) | [⚡ Live Demo](https://suleimanhajizadeh.github.io/MyPortfolio.github.io/) |
 | 39 | **New Year 2025** | [`./New-Year-2025`](./New-Year-2025) | [⚡ Live Demo](https://suleiman-new-year-2025.netlify.app/) |
 | 40 | **Parallax Scrolling Website using Scroll Trigger** | [`./Parallax-Scrolling-Website-using-Scroll-Trigger`](./Parallax-Scrolling-Website-using-Scroll-Trigger) | [⚡ Live Demo](https://suleiman-parallax-scrolling-website.netlify.app/) |
 | 41 | **Police Vs Taxi Running Car Animation Effects** | [`./Police-Vs-Taxi-Running-Car-Animation-Effects`](./Police-Vs-Taxi-Running-Car-Animation-Effects) | [⚡ Live Demo](https://suleiman-police-vs-taxi.netlify.app/) |
 | 42 | **Product Card Hover Effect Cocacola Card UI Design** | [`./Product-Card-Hover-Effect-Cocacola-Card-UI-Design`](./Product-Card-Hover-Effect-Cocacola-Card-UI-Design) | [⚡ Live Demo](https://suleiman-product-card-hover-coca.netlify.app/) |
 | 43 | **Simple Star Rating** | [`./Simple-Star-Rating`](./Simple-Star-Rating) | [⚡ Live Demo](https://suleiman-simple-star-rating.netlify.app/) |
 | 44 | **Stop Watch** | [`./Stop-Watch`](./Stop-Watch) | [⚡ Live Demo](https://suleiman-stop-watch.netlify.app/) |
-| 45 | **suleimanhajizadeh.github.io** | [`./suleimanhajizadeh.github.io`](./suleimanhajizadeh.github.io) | 🖥️ Local execution |
+| 45 | **suleimanhajizadeh.github.io** | [`./suleimanhajizadeh.github.io`](./suleimanhajizadeh.github.io) | [⚡ Live Demo](https://suleimanhajizadeh.github.io/) |
 | 46 | **svg** | [`./svg`](./svg) | [⚡ Live Demo](https://suleiman-svg.netlify.app/) |
 | 47 | **Switch On Off Light Bulb With Sound** | [`./Switch-On-Off-Light-Bulb-With-Sound`](./Switch-On-Off-Light-Bulb-With-Sound) | [⚡ Live Demo](https://suleiman-switch-on-off-light-bulb.netlify.app/) |
 | 48 | **Tab Navigation Menu** | [`./Tab-Navigation-Menu`](./Tab-Navigation-Menu) | [⚡ Live Demo](https://suleiman-tab-navigation-menu.netlify.app/) |
